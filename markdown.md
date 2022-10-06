@@ -3,17 +3,20 @@
 1. Definition of **WPAN**
 2. **WPAN** compared to **WLAN**
 3. Usecases
-4. Implementations
-5. Standards
+4. Standards
+5. Implementations
+6. Data Rates and Ranges
+7. Transmitting Sound using Sunlight
 
 ---
 
 <h1 style="color:rgb(47, 178, 143); font-size: 90px;">Definition of WPAN</h1>
 
-- subgroup of **Personal Area Network**
-- short range setup
+- shortrange, wireless connection
 - the lower transmission power results in energy savings
 - used to connect to a larger network
+- subgroup of **Personal Area Network**
+- 802.15
 
 ---
 
@@ -63,17 +66,14 @@
 
 | tech     | speed        | range      |
 | -------- | ------------ | ---------- |
-| BT       | _3 Mb/s_     | _up to km_ |
-| Zigbee   | _250 kbit/s_ | _100m_     |
-| Infrared | _4 Mbit/s_   | _10m_      |
+| BT       | _433,9 kbit/s_     | _up to several km's_ |
 | RFID     | _8 kbit/s_   | _1000m_    |
+| Zigbee   | _250 kbit/s_ | _300m_     |
+| WLAN     | _7 Gbit/s_  | _100m_     |
+| Infrared | _4 Mbit/s_   | _10m-30m_      |
 | NFC      | _424 kbit/s_ | _10cm_     |
-| WLAN     | _54 Mbit/s_  | _100m_     |
         
 
----
-
-## 👋 Let's discuss!
 
 
-![](images/qr.png)
+
