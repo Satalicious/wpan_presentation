@@ -1,3 +1,31 @@
+
+## 🚀 Getting Started
+
+
+### 1. **Clone the repo**
+
+Use `git` to clone the site and navigate into it:
+
+```sh
+git clone git@github.com:Satalicious/wpan_presentation.git
+cd wpan_presentation
+```
+
+### 2. **Install dependencies.**
+
+If you use npm 7 or above use the `--legacy-peer-deps` flag. If you use npm 6 you can use `npm install`.
+
+```sh
+npm i
+```
+
+### 3. **Open the code and start customizing!**
+
+Start the site by running `npm run start`.
+
+Your site is now running at `http://localhost:8000`!
+
+
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
@@ -17,9 +45,7 @@ Want to create reveal.js presentation in a graphical editor? Try <https://slides
 
 ---
 
-
---- 
 <div align="center">
   MIT licensed | Copyright © 2011-2022 Hakim El Hattab, https://hakim.se
 </div>
-# wpan_presentation
+
