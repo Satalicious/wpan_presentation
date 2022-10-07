@@ -40,7 +40,6 @@
 
 ---
 
-
 <h1 style="color:rgb(47, 178, 143); font-size: 90px;">Usecases</h1>
 
 ## ![](images/home_auto.png)
@@ -50,7 +49,6 @@
 ![](images/standards.jpg)
 
 ---
-
 
 <h1 style="color:rgb(47, 178, 143); font-size: 90px;">Implementations</h1>
 
@@ -64,16 +62,11 @@
 
 <h1 style="color:rgb(47, 178, 143); font-size: 80px;">Data Rates and Ranges</h1>
 
-| tech     | speed        | range      |
-| -------- | ------------ | ---------- |
-| BT       | _433,9 kbit/s_     | _up to several km's_ |
-| RFID     | _8 kbit/s_   | _1000m_    |
-| Zigbee   | _250 kbit/s_ | _300m_     |
-| WLAN     | _7 Gbit/s_  | _100m_     |
-| Infrared | _4 Mbit/s_   | _10m-30m_      |
-| NFC      | _424 kbit/s_ | _10cm_     |
-        
-
-
-
-
+| tech     | speed          | range     |
+| -------- | -------------- | --------- |
+| RFID     | _8 kbit/s_     | _1000m_   |
+| BT       | _433,9 kbit/s_ | _100m_    |
+| WLAN     | _7 Gbit/s_     | _100m_    |
+| Zigbee   | _250 kbit/s_   | _30m_     |
+| Infrared | _4 Mbit/s_     | _10m-30m_ |
+| NFC      | _424 kbit/s_   | _10cm_    |
