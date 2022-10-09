@@ -2,7 +2,7 @@
 
 1. Definition of **WPAN**
 2. **WPAN** compared to **WLAN**
-3. Usecases
+3. Use cases
 4. Standards
 5. Implementations
 6. Data Rates and Ranges
@@ -34,13 +34,13 @@
 
 ---
 
-<h1 style="color:rgb(47, 178, 143); font-size: 90px;">Usecases</h1>
+<h1 style="color:rgb(47, 178, 143); font-size: 90px;">Use cases</h1>
 
 ## ![](images/wpans.jpg)
 
 ---
 
-<h1 style="color:rgb(47, 178, 143); font-size: 90px;">Usecases</h1>
+<h1 style="color:rgb(47, 178, 143); font-size: 90px;">Use cases</h1>
 
 ## ![](images/home_auto.png)
 
