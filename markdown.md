@@ -2,64 +2,113 @@
 <h1 style="color:rgb(47, 178, 143); font-size: 130px;">Overview</h1>
 
 - Definition of Ethereum 
-- Purpose
-- Use cases
-- Key features & benefits
-- Ethereum / Ether
+- Smart contracts, NFT's
+- ERC-20 Tokens
+- Ether
+- Address
 
 ---
 
-<h1 style="color:rgb(47, 178, 143); font-size: 110px;">Definition</h1>
-
+<h1 style="color:rgb(47, 178, 143); font-size: 130px;">Ethereum</h1>
 
 - Cryptocurrency
 - Programmable (Smart Contracts)
 - Create decentralized applications
 
-
 ---
 
-<!-- Smart Contracts on Ethereum -->
 <h1 style="color:rgb(47, 178, 143); font-size: 110px;">Smart Contracts</h1>
 
-- Explanation of what smart contracts are and how they work on the Ethereum blockchain
-- Examples of real-world use cases for smart contracts on Ethereum
+<section>
+</section>
+
+<section>
+Computer programs on blockchain
+</section>
+<section>
+Deployed and executed
+</section>
+<section>
+
+None Fungible Token (ERC-721)
+
+<div style="display: flex;">
+<img style="margin-right: 25px;" height="300" src="./images/boredape.webp"/>
+<img height="300" src="./images/cryptopunks-von-larvalabs.webp"/>
+</div>
+</section>
+
+<section>
+
+ERC-20 Tokens 
+
+<img height="200" src="./images/monerium-iban.png"/> [Monerium](https://monerium.com)
+<img height="200" src="./images/monerium-icon.png"/>
+
+[Monerium on Etherscan](https://etherscan.io/token/0x3231cb76718cdef2155fc47b5286d82e6eda273f)
+</section>
 
 ---
 
-<!-- Ethereum's Token, Ether (ETH) -->
-<h1 style="color:rgb(47, 178, 143); font-size: 100px;">Ethereum's Token, Ether (ETH)</h1>
-
-- Overview of Ethereum's native cryptocurrency, Ether (ETH)
-- Use cases for Ether, including as a means of exchange and as a way to pay for transaction fees on the Ethereum network
+<img height="660" src="./images/carbon.png"/>
 
 ---
 
-<!-- Decentralized Applications (DApps) on Ethereum -->
 <h1 style="color:rgb(47, 178, 143); font-size: 80px;">DApps on Ethereum</h1>
 
 <section>
 </section>
 
 <section>
-
-- Explanation of what decentralized applications (DApps) are and how they work on the Ethereum blockchain
-- Examples of popular DApps built on Ethereum, such as Uniswap and Aave
+Run on the Ethereum blockchain
+</section>
+<section>
+<span style="font-size: 50px; color: rgb(47, 178, 143)">Aave:</span> lending/borrowing platform
+</section>
+<section>
+<span style="font-size: 50px; color: rgb(47, 178, 143)">Uniswap:</span> swap erc-20 tokens
 </section>
 
 <section>
 
-- Financial deduction, social media, betting platform
+[Uniswap](https://app.uniswap.org/#/swap)
 
-<img height="300" src="./images/dapps.jpg"/>
+<img height="400" src="./images/uniswap.jpeg"/>
 
 </section>
 
 ---
 
-<!-- Conclusion -->
-<h1 style="color:rgb(47, 178, 143); font-size: 100px;">Conclusion</h1>
+<!-- Ethereum's Token, Ether (ETH) -->
+<h1 style="color:rgb(47, 178, 143); font-size: 70px;">Ethereum's Token - Ether</h1>
 
-- Summary of key takeaways from the presentation
-- Final thoughts on the potential of Ethereum and the future of blockchain technology
+- Ethereum's native cryptocurrency
+- Transaction fees
+- Deployment of contract
+
+---
+
+<h1 style="color:rgb(47, 178, 143); font-size: 100px;">ETH Adresses</h1>
+
+<section>
+</section>
+
+
+
+<section>
+address space is based on SHA-256
+</section>
+<section>
+0xb3e904a8E2C16f77d13adB3d3622FC31303b656c
+</section>
+<section>
+There are 2^256 eth addresses
+</section>
+
+<section>
+2^256 = 
+115792089237316195423570985008687907853269984665640564039457584007913129639936 keys.
+</section>
+
+
 
