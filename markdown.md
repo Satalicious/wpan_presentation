@@ -1,72 +1,65 @@
-<h1 style="color:rgb(47, 178, 143); font-size: 100px;">Overview</h1>
+<!-- Overview of Ethereum -->
+<h1 style="color:rgb(47, 178, 143); font-size: 130px;">Overview</h1>
 
-1. Definition of **WPAN**
-2. **WPAN** compared to **WLAN**
-3. Use cases
-4. Standards
-5. Implementations
-6. Data Rates and Ranges
-7. Transmitting Sound using Sunlight
-
----
-
-<h1 style="color:rgb(47, 178, 143); font-size: 90px;">Definition of WPAN</h1>
-
-- shortrange, wireless connection
-- the lower transmission power results in energy savings
-- used to connect to a larger network
-- subgroup of **Personal Area Network**
-- 802.15
+- Definition of Ethereum 
+- Purpose
+- Use cases
+- Key features & benefits
+- Ethereum / Ether
 
 ---
 
-<h1 style="color:rgb(47, 178, 143); font-size: 100px;">WPAN vs WLAN</h1>
+<h1 style="color:rgb(47, 178, 143); font-size: 110px;">Definition</h1>
 
-| vs             | **WPAN** | **WLAN** |
-| -------------- | -------- | -------- |
-| distance       | short    | wide     |
-| infrastructure | none     | much     |
-| data rates     | low      | high     |
 
----
+- Cryptocurrency
+- Programmable (Smart Contracts)
+- Create decentralized applications
 
-![](images/Range.jpg)
 
 ---
 
-<h1 style="color:rgb(47, 178, 143); font-size: 90px;">Use cases</h1>
+<!-- Smart Contracts on Ethereum -->
+<h1 style="color:rgb(47, 178, 143); font-size: 110px;">Smart Contracts</h1>
 
-## ![](images/wpans.jpg)
-
----
-
-<h1 style="color:rgb(47, 178, 143); font-size: 90px;">Use cases</h1>
-
-## ![](images/home_auto.png)
+- Explanation of what smart contracts are and how they work on the Ethereum blockchain
+- Examples of real-world use cases for smart contracts on Ethereum
 
 ---
 
-![](images/standards.jpg)
+<!-- Ethereum's Token, Ether (ETH) -->
+<h1 style="color:rgb(47, 178, 143); font-size: 100px;">Ethereum's Token, Ether (ETH)</h1>
+
+- Overview of Ethereum's native cryptocurrency, Ether (ETH)
+- Use cases for Ether, including as a means of exchange and as a way to pay for transaction fees on the Ethereum network
 
 ---
 
-<h1 style="color:rgb(47, 178, 143); font-size: 90px;">Implementations</h1>
+<!-- Decentralized Applications (DApps) on Ethereum -->
+<h1 style="color:rgb(47, 178, 143); font-size: 80px;">DApps on Ethereum</h1>
 
-- Bluetooth / Bluetooth LE
-- Zigbee
-- Infrared
-- RFID
-- NFC
+<section>
+</section>
+
+<section>
+
+- Explanation of what decentralized applications (DApps) are and how they work on the Ethereum blockchain
+- Examples of popular DApps built on Ethereum, such as Uniswap and Aave
+</section>
+
+<section>
+
+- Financial deduction, social media, betting platform
+
+<img height="300" src="./images/dapps.jpg"/>
+
+</section>
 
 ---
 
-<h1 style="color:rgb(47, 178, 143); font-size: 80px;">Data Rates and Ranges</h1>
+<!-- Conclusion -->
+<h1 style="color:rgb(47, 178, 143); font-size: 100px;">Conclusion</h1>
 
-| tech     | speed          | range     |
-| -------- | -------------- | --------- |
-| RFID     | _8 kbit/s_     | _1000m_   |
-| BT       | _433,9 kbit/s_ | _100m_    |
-| WLAN     | _7 Gbit/s_     | _100m_    |
-| Zigbee   | _250 kbit/s_   | _30m_     |
-| Infrared | _4 Mbit/s_     | _10m-30m_ |
-| NFC      | _424 kbit/s_   | _10cm_    |
+- Summary of key takeaways from the presentation
+- Final thoughts on the potential of Ethereum and the future of blockchain technology
+
