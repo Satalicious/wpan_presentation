@@ -1,93 +1,52 @@
 <!-- Overview of Ethereum -->
-<h1 style="color:rgb(47, 178, 143); font-size: 130px;">Overview</h1>
-
-- Definition of Ethereum 
-- Smart contracts, NFT's
-- ERC-20 Tokens
-- Ether
-- Addresses
-
----
-
-<h1 style="color:rgb(47, 178, 143); font-size: 130px;">Ethereum</h1>
-
-- Decentralized
-- Programmable
-
-**Create decentralized applications**
-
----
-
-<h1 style="color:rgb(47, 178, 143); font-size: 110px;">Smart Contracts</h1>
+<h1 style="color:rgb(47, 178, 143); font-size: 130px;">Infos fuer EDA</h1>
 
 <section>
 </section>
 
-<section>
-Computer programs running on blockchain
-</section>
-<section>
-Many Usecases
-</section>
+
 <section>
 
-None Fungible Token (ERC-721)
+Eine vollständige Liste aller zur Anbindung vorgesehener AT­Codes.
 
-<div style="display: flex;">
-<img style="margin-right: 25px;" height="300" src="./images/boredape.webp"/>
-<img height="300" src="./images/cryptopunks-von-larvalabs.webp"/>
-</div>
+**CC100087**
 </section>
 
 <section>
+CA Zertifikate im Base64-Format (*.pem), falls nicht von PONTON GmbH signierte Partner-Zertifikate.
+</section>
 
-ERC-20 Tokens 
 
-<img height="200" src="./images/monerium-iban.png"/> [Monerium](https://monerium.com)
-<img height="200" src="./images/monerium-icon.png"/>
+<section>
+Ausgehende IP Adresse über die wir Nachrichten senden.
 
-[Monerium on Etherscan](https://etherscan.io/token/0x3231cb76718cdef2155fc47b5286d82e6eda273f)
+**65.108.58.28**
+</section>
+
+<section>
+Eingehende URL an die wir Nachrichten erhalten.
+
+**65.108.58.28:8080**
+</section>
+
+<section>
+Kontaktinformationen eines Ansprechpartners in Ihrem Unternehmen.
 </section>
 
 ---
 
-<img height="660" margin-top="200" src="./images/carbon.png"/>
+<h1 style="color:rgb(47, 178, 143); font-size: 100px;">Communication</h1>
+
+<img style="margin-right: 25px;" height="300" src="./images/Kommunikationswege%20-%20Wechselprozess%20ueber%20Messenger.png"/>
 
 
 
 ---
 
-<!-- Ethereum's Token, Ether (ETH) -->
-<h1 style="color:rgb(47, 178, 143); font-size: 70px;">Ethereum's Token - Ether</h1>
 
-- Ethereum's native cryptocurrency
-- Transaction fees
-- Deployments
-
----
-
-<h1 style="color:rgb(47, 178, 143); font-size: 100px;">ETH Adresses</h1>
-
-<section>
-</section>
+<h1 style="color:rgb(47, 178, 143); font-size: 120px;">Onboarding</h1>
 
 
-<section>
-0xb3e904a8E2C16f77d13adB3d3622FC31303b656c
-</section>
+[PONTON Confluence](https://confluence.ponton.de/display/OESD/Schnelleinstieg+-+KEP+Betreiber)
 
-<section>
-address space is based on SHA-256
-</section>
-<section>
-2^256
-</section>
-
-<section>
-115792089237316195423570985008687907853269984
-66564056403945758400791312963993
-</section>
-
-<section>
-227940000 are "used"
-</section>
+[Partner anlegen](https://confluence.ponton.de/display/OESD/Lokale+Partner+anlegen)
