@@ -1,93 +1,110 @@
-<!-- Overview of Ethereum -->
-<h1 style="color:rgb(47, 178, 143); font-size: 130px;">Overview</h1>
+<!-- Überblick über Kameraobjektive und Filter -->
+<h1 style="color:rgb(47, 178, 143); font-size: 130px;">Überblick</h1>
 
-- Definition of Ethereum 
-- Smart contracts, NFT's
-- ERC-20 Tokens
-- Ether
-- Addresses
-
----
-
-<h1 style="color:rgb(47, 178, 143); font-size: 130px;">Ethereum</h1>
-
-- Decentralized
-- Programmable
-
-**Create decentralized applications**
+- Definition von Kameraobjektiven
+- Arten von Objektiven
+- Wichtige Parameter
+- Auswahl des richtigen Objektivs
+- Einführung in Kamerafilter
+- Arten von Filtern
+- Verwendung von Filtern
+- Schlussfolgerung
 
 ---
 
-<h1 style="color:rgb(47, 178, 143); font-size: 110px;">Smart Contracts</h1>
+<h1 style="color:rgb(47, 178, 143); font-size: 110px;">Kameraobjektive</h1>
+
+- Wesentlicher Bestandteil der Fotografie
+- Manipuliert das in die Kamera eintretende Licht
+- Beeinflusst Bildschärfe, Kontrast, Farbe und Verzerrung
+
+**Vielfalt an Objektiven für unterschiedliche Zwecke**
+
+---
+
+<h1 style="color:rgb(47, 178, 143); font-size: 90px;">Arten von Objektiven</h1>
 
 <section>
 </section>
 
 <section>
-Computer programs running on blockchain
-</section>
-<section>
-Many Usecases
-</section>
-<section>
-
-None Fungible Token (ERC-721)
-
-<div style="display: flex;">
-<img style="margin-right: 25px;" height="300" src="./images/boredape.webp"/>
-<img height="300" src="./images/cryptopunks-von-larvalabs.webp"/>
-</div>
+Weitwinkelobjektive
 </section>
 
 <section>
+Standard-/Normalobjektive
+</section>
 
-ERC-20 Tokens 
+<section>
+Teleobjektive
+</section>
 
-<img height="200" src="./images/monerium-iban.png"/> [Monerium](https://monerium.com)
-<img height="200" src="./images/monerium-icon.png"/>
+<section>
+Zoomobjektive
+</section>
 
-[Monerium on Etherscan](https://etherscan.io/token/0x3231cb76718cdef2155fc47b5286d82e6eda273f)
+<section>
+Spezialobjektive (Makro, Fisheye, Tilt-Shift, etc.)
 </section>
 
 ---
 
-<img height="660" margin-top="200" src="./images/carbon.png"/>
+<h1 style="color:rgb(47, 178, 143); font-size: 80px;">Wichtige Parameter</h1>
 
+<section>
 
+- Brennweite
+- Blendenöffnung
+- Bildstabilisierung
+- Autofokus vs. manueller Fokus
+</section>
 
 ---
 
-<!-- Ethereum's Token, Ether (ETH) -->
-<h1 style="color:rgb(47, 178, 143); font-size: 70px;">Ethereum's Token - Ether</h1>
+<h1 style="color:rgb(47, 178, 143); font-size: 80px;">Auswahl des Objektivs</h1>
 
-- Ethereum's native cryptocurrency
-- Transaction fees
-- Deployments
+- Berücksichtigung des Verwendungszwecks (Porträt, Landschaft, Sport, Makro, etc.)
+- Kompatibilität mit der Kamera
+- Preis und Qualität
 
 ---
 
-<h1 style="color:rgb(47, 178, 143); font-size: 100px;">ETH Adresses</h1>
+<h1 style="color:rgb(47, 178, 143); font-size: 100px;">Kamerafilter</h1>
 
 <section>
+
+- Definition und Funktion
+- Warum Filter verwenden?
 </section>
 
+---
+
+<h1 style="color:rgb(47, 178, 143); font-size: 110px;">Arten von Filter</h1>
 
 <section>
-0xb3e904a8E2C16f77d13adB3d3622FC31303b656c
+
+- UV-Filter
+- Polarisationsfilter
+- Neutraldichte-Filter (ND-Filter)
+- Farbfilter
+- Weichzeichner-/Effektfilter
 </section>
 
-<section>
-address space is based on SHA-256
-</section>
-<section>
-2^256
-</section>
+---
+
+<h1 style="color:rgb(47, 178, 143); font-size: 80px;">Verwendung von Filter</h1>
+
+- Auswahl des richtigen Filters für eine bestimmte Aufnahme
+- Einfluss des Filters auf die Bildqualität
+- Physische vs. digitale Filter
+
+---
+
+<h1 style="color:rgb(47, 178, 143); font-size: 100px;">Schlussfolgerung</h1>
 
 <section>
-115792089237316195423570985008687907853269984
-66564056403945758400791312963993
-</section>
 
-<section>
-227940000 are "used"
+- Zusammenfassung
+- Wichtige Schlüsselpunkte
+- Offene Fragen und Diskussion
 </section>
