@@ -5,10 +5,9 @@
 - Arten von Objektiven
 - Wichtige Parameter
 - Auswahl des richtigen Objektivs
-- Einführung in Kamerafilter
+- Kamerafilter
 - Arten von Filtern
 - Verwendung von Filtern
-- Schlussfolgerung
 
 ---
 
@@ -22,30 +21,47 @@
 
 ---
 
-<h1 style="color:rgb(47, 178, 143); font-size: 90px;">Arten von Objektiven</h1>
+<h1 style="color:rgb(47, 178, 143); font-size: 70px;">Arten von Objektiven</h1>
 
 <section>
 </section>
 
 <section>
-Weitwinkelobjektive
+
+##### Weitwinkelobjektive
+
+<img width="600" height="400" src="images/weitwinkel.jpg"/>
 </section>
 
 <section>
-Standard-/Normalobjektive
+
+##### Standard-/Normalobjektive
+
+<img width="600" height="400" src="images/normalobjektiv.jpg"/>
 </section>
 
 <section>
-Teleobjektive
+
+##### Teleobjektive
+
+<img width="600" height="400" src="images/loewe.jpg"/>
 </section>
 
 <section>
-Zoomobjektive
+
+##### Zoomobjektive
+
+<img width="600" height="400" src="images/makro_insekt.jpg"/>
 </section>
 
 <section>
-Spezialobjektive (Makro, Fisheye, Tilt-Shift, etc.)
+
+##### Spezialobjektive (Makro, Fisheye, Tilt-Shift, etc.)
+
+<img width="600" height="400" src="images/skateboard.webp"/>
 </section>
+
+
 
 ---
 
@@ -97,14 +113,3 @@ Spezialobjektive (Makro, Fisheye, Tilt-Shift, etc.)
 - Auswahl des richtigen Filters für eine bestimmte Aufnahme
 - Einfluss des Filters auf die Bildqualität
 - Physische vs. digitale Filter
-
----
-
-<h1 style="color:rgb(47, 178, 143); font-size: 100px;">Schlussfolgerung</h1>
-
-<section>
-
-- Zusammenfassung
-- Wichtige Schlüsselpunkte
-- Offene Fragen und Diskussion
-</section>
