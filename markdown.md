@@ -108,17 +108,27 @@
 
 ---
 
-<h1 style="color:rgb(47, 178, 143); font-size: 110px;">Arten von Filter</h1>
-
+<h1 style="color:rgb(47, 178, 143); font-size: 70px;">Arten von Kamerafiltern</h1>
 <section>
-
-- UV-Filter
-- Polarisationsfilter
-- Neutraldichte-Filter (ND-Filter)
-- Farbfilter
-- Weichzeichner-/Effektfilter
+UV-Filter
+<img  width="400" height="400" src="images/UVFilter.webp"/>
 </section>
-
+<section>
+Polarisationsfilter
+<img width="600" height="400" src="images/Polarisationsfilter.webp"/>
+</section>
+<section>
+Neutraldichte (ND) Filter
+<img width="600" height="400" src="https://cdn.pixabay.com/photo/2020/07/06/01/33/sky-5375005_960_720.jpg"/>
+</section>
+<section>
+Verlaufsfilter
+<img width="600" height="400" src="https://cdn.pixabay.com/photo/2013/04/04/12/34/sunset-100367_960_720.jpg"/>
+</section>
+<section>
+Spezialeffektfilter (Stern, Weichzeichner, etc.)
+<img width="600" height="400" src="https://cdn.pixabay.com/photo/2017/01/18/16/46/hong-kong-1990268_960_720.jpg"/>
+</section>
 ---
 
 <h1 style="color:rgb(47, 178, 143); font-size: 80px;">Verwendung von Filter</h1>
