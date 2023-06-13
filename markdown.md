@@ -98,7 +98,7 @@
 <h1 style="color:rgb(47, 178, 143); font-size: 70px;">Arten von Kamerafiltern</h1>
 <section>
 UV-Filter
-<img style="aspec" width="600" height="400" src="images/UVFilter.webp"/>
+<img  width="400" height="400" src="images/UVFilter.webp"/>
 </section>
 <section>
 Polarisationsfilter
