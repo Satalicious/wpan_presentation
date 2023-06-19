@@ -32,7 +32,7 @@
 
 <img width="280" height="280" class="plain" src="images/objetkive.png"/>
 
-Beeinflusst Bildschärfe, Kontrast, Farbe und Verzerrung
+Beeinflussen Bildschärfe, Kontrast, Farbe und Verzerrung
   
 
 </section>
