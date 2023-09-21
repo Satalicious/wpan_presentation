@@ -61,17 +61,36 @@ Zukunftsichere Lösung
 
 <h1 style="color:#a9e8d2; font-size: 70px;">Überblick</h1>
 
-- design
-- user authentication
-- session context
-- endpoints
-- realtime socketio
-- datenbank
+<section>
+</section>
+
+
+<section>
+
+### Frontend
+
+- Design
+- Login
+- Chat
+- Navigation
+- Profil
+</section>
+
+
+
+<section>
+
+### Backend
+- Daten Management
+- Benutzerauthentifizierung
+- Endpoints
+- Socket.io
+- Datenbank
+</section>
 
 
 
 ---
-
 
 
 <h1 style="color:#a9e8d2; font-size: 150px;">Frontend</h1>
@@ -153,8 +172,7 @@ Zukunftsichere Lösung
 </div>
 
 ---
-
-### Profile
+### Profil
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 50px;">
     <div>
@@ -227,7 +245,7 @@ Zukunftsichere Lösung
 <li style="margin-bottom:10px">Einfache Erweiterung und Skalierung der Applikation</li>
 </ul>
 
-<img src="./images/endpoint.png" />
+<img style="height: 300px; width: 600px;" src="./images/restfulAPI.png" />
 
 ---
 
@@ -238,20 +256,18 @@ Zukunftsichere Lösung
         <img style="height: 400px; width: 1000px;" src="./images/sockets.png" />
     </div>
 </div>
-Socket.io informiert Teilnehmer
+Socket.io verwaltet unsere WebSockets
 
 ---
 
 ## Datenbank
+<img style="height: 300px; width: 400px;" src="./images/mysql3.png" />
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap:40px;">
     <div>
-        <img src="" />
     </div>
     <ul style="width: 80%;" >
-      <li style="margin-bottom:10px">Robustes relationales Datenbankmanagementsystem</li>
-      <li style="margin-bottom:10px">Sichere Speicherung von Benutzerdaten und Nachrichten</li>
-      <li style="margin-bottom:10px">Gewährleistung von Datenkonsistenz und Zuverlässigkeit</li>
+      <li style="margin-bottom:10px">Robustes relationales DBMS</li>
     </ul>
 </div>
 
